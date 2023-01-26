@@ -1,0 +1,48 @@
+p{
+  color: aqua;
+  background-color: black;
+  font-size: large;
+  font-family: "Century Schoolbook L";
+  alignment: center;
+}
+
+
+button{
+  color: black;
+  tab-size: 32px;
+  padding: 15px;
+  text-align: center;
+  margin: 21px;
+}
+
+td,th {
+  border: 2px solid rebeccapurple;
+  font-family: "DejaVu Sans Mono";
+  text-align: center;
+  color: brown;
+   -moz-border-radius: 10px;
+
+}
+
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+  padding: 10px;
+  color: chocolate;
+  background-color:lightyellow;
+}
+
+h1{text-align: center;
+  color: cyan;
+  background-color: black;
+}
+ul {
+  color: deeppink
+
+}
+ol{
+  font-size-adjust: inherit;
+  font-family: "DejaVu Sans Mono";
+  color: darkviolet;
+}
